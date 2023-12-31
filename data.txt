@@ -1,0 +1,10 @@
+Employee,Mahmoud Hassan,01/01/1990,Married,2,01/01/2017,01/01/2020,Software Engineering,BSc
+Trainer,Fatima Khalil,01/01/1999,Single,0,01/01/2022,None,Human Resources,Diploma,ABC Institute
+Worker,Omar Ali,01/01/1990,Married,3,01/01/2019,None,Marketing,Diploma,50,5
+Employee,Aisha Hassan,01/01/1995,Single,0,01/01/2018,01/01/2022,E-Marketing,BSc
+Trainer,Samir Mahmoud,01/01/2000,Single,0,01/01/2021,None,Sales,Diploma,XYZ Institute
+Worker,Rania Ahmed,01/01/1995,Single,0,01/01/2018,None,Customer Service,BSc,70,5
+Employee,Amira Hassan,01/01/1989,Married,3,01/01/2016,None,Leadership Development,PhD
+Worker,Basil Ramzi,27/01/1998,Single,0,22/12/2022,None,Accounting,BSc,90,5
+Employee,Ahmed Mustafa,18/01/2000,Single,0,20/01/2021,None,Computer Science,BSc
+Employee,Ahmed Mustafa,18/100/2000,Single,10,18/02/2019,None,Computer Science,BSc
